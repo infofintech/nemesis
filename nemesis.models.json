@@ -1,0 +1,41 @@
+{
+    "Ana de Armas": {
+        "height": 1.68, "weight": 55,
+        "sizes": "86-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "CU",
+        "birthday": "April 30, 1988",
+        "language": {
+            "RU": { "title": "Ана де Армас" }
+        }
+    },
+    "Zena Marshall": {
+        "height": 1.65, "weight": 49, "nsfw": "true",
+        "sizes": "34-24-34", "country": "GB",
+        "birthday": "January 1, 1925",
+        "language": {
+            "RU": { "title": "Зина Маршалл" }
+        }
+    },
+    "Monte Carlo Casino, Monaco": {
+        "country": "FR", "insignia": "Clock",
+        "maison": "https://www.jamesbondlifestyle.com/product/monte-carlo-casino-monaco",
+        "memoir": "One of the most glamorous Bond locations is the Casino Monte Carlo in the country of Monaco, the second smallest country in the world (after the Vatican). The beautiful casino with it's impressive facade features prominently in Never Say Never Again and GoldenEye. The first time Bond visits the casino is in Never Say Never Again (the remake of Thunderball, not produced by EON but with Sean Connery as James Bond). Bond plays the 'futuristic' laser videogame 'Domination' with Largo as Domino Petachi looks on, during the Charity Ball organised by Largo in the casino. In the film, the casino is called The Casino Royale Monte Carlo. In the 1995 James Bond movie GoldenEye, Pierce Brosnan as Bond meets Xenia Onatopp inside the casino. First he beats her at a game of Baccarat and then he meets her for a drink at the bar.",
+        "language": {
+            "RU": {
+                "title": "Казино Монте-Карло, Монако",
+                "memoir": "Одно из самых гламурных мест Бонда — казино Монте-Карло в стране Монако, второй по величине стране в мире (после Ватикана). Красивое казино с впечатляющим фасадом занимает видное место в фильмах «Никогда не говори никогда» и «Золотой глаз». Впервые Бонд посещает казино в фильме «Никогда не говори никогда» (ремейк фильма «Шаровая молния», снятый не EON, но с Шоном Коннери в роли Джеймса Бонда). Бонд играет в «футуристическую» лазерную видеоигру «Доминирование» с Ларго, а Домино Петачи наблюдает за происходящим во время благотворительного бала, организованного Ларго в казино. В фильме казино называется «Казино Рояль Монте-Карло». В фильме о Джеймсе Бонде 1995 года «Золотой глаз» Пирс Броснан в роли Бонда встречает Ксению Онатопп в казино. Сначала он обыгрывает ее в баккара, а затем встречается с ней за выпивкой в ​​баре."
+            }
+        }
+    },
+    "007 ELEMENTS": {
+        "country": "AT", "insignia": "007",
+        "maison": "https://www.007.com",
+        "memoir": "The name 007 ELEMENTS reflects the visitor's journey through a series of galleries, each distilling the craft of the signature elements that define a James Bond film. The installation focuses on Spectre, which was shot in Sölden and also features other titles in the long-running Bond film franchise.",
+        "language": {
+            "RU": {
+                "title": "ЭЛЕМЕНТЫ 007",
+                "memoir": "Название 007 ELEMENTS отражает путешествие посетителя через ряд галерей, каждая из которых раскрывает мастерство фирменных элементов, определяющих фильм о Джеймсе Бонде. Инсталляция фокусируется на фильме «007: Спектр», который снимался в Зельдене, а также на других фильмах из долгой франшизы фильмов о Бонде."
+            }
+        }
+    }
+}
