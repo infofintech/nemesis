@@ -16,6 +16,15 @@
             "RU": { "title": "Зина Маршалл" }
         }
     },
+    "Deva Cassel": {
+        "height": 1.79,
+        "sizes": "85-65-92", "nsfw": "true",
+        "shoe_size": 11, "country": "IT",
+        "birthday": "September 12, 2004",
+        "language": {
+            "RU": { "title": "Дева Кассель" }
+        }
+    },
     "Monte Carlo Casino, Monaco": {
         "country": "FR", "insignia": "Clock",
         "maison": "https://www.jamesbondlifestyle.com/product/monte-carlo-casino-monaco",
