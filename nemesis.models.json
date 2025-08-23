@@ -35,6 +35,15 @@
             "RU": { "title": "Зина Маршалл" }
         }
     },
+    "Kim Basinger": {
+        "height": 1.7, "weight": 57,
+        "sizes": "89-64-89", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "December 8, 1953",
+        "language": {
+            "RU": { "title": "Ким Бейсингер" }
+        }
+    },
     "Deva Cassel": {
         "height": 1.79,
         "sizes": "85-65-92", "nsfw": "true",
